@@ -33,32 +33,49 @@ Do **not** attempt to push changes directly to this repository or any of its ori
 
 You must write SQL queries to address the scenarios listed below. For each query, include comments explaining your approach in **at least three sentences**. Submissions with missing answers or explanations shorter than the required length will **not be evaluated** and will receive **0 points**.
 
-### 1. List the customers who are subscribed to the 'Kobiye Destek' tariff.
-### 1.1 Find the newest customer who subscribed to this tariff.
+---
+
+### 1. Tariff-Based Customer Queries
+
+**1.1** List the customers who are subscribed to the 'Kobiye Destek' tariff.  
+**1.2** Find the newest customer who subscribed to this tariff.
 
 ---
 
-### 2. Find the distribution of tariffs among the customers.
+### 2. Tariff Distribution
+
+**2.1** Find the distribution of tariffs among the customers.
 
 ---
 
-### 3. Identify the earliest customers to sign up. *(Hint: The earliest customers might not necessarily have the lowest IDs.)*
-### 3.1 Find the distribution of these earliest customers across different cities, including the total count for each city.
+### 3. Customer Signup Analysis
+
+**3.1** Identify the earliest customers to sign up.  
+*(Hint: The earliest customers might not necessarily have the lowest IDs.)*
+
+**3.2** Find the distribution of these earliest customers across different cities, including the total count for each city.
 
 ---
 
-### 4. Every customer has a monthly fee, and the dataset contains this month's usage values. However, an insertion error occurred, and some customers' monthly records are missing. Identify the IDs of these missing customers.
-### 4.1 Find the distribution of these missing customers across different cities.
+### 4. Missing Monthly Records
+
+**4.1** Every customer has a monthly fee, and the dataset contains this month's usage values. However, an insertion error occurred, and some customers' monthly records are missing. Identify the IDs of these missing customers.
+
+**4.2** Find the distribution of these missing customers across different cities.
 
 ---
 
-### 5. Find the customers who have used at least 75% of their data limit.
-### 5.1 Identify the customers who have completely exhausted all of their package limits (data, minutes, and SMS).
+### 5. Usage Analysis
+
+**5.1** Find the customers who have used at least 75% of their data limit.  
+**5.2** Identify the customers who have completely exhausted all of their package limits (data, minutes, and SMS).
 
 ---
 
-### 6. Find the customers who have unpaid fees.
-### 6.1 Find the distribution of all payment statuses across the different tariffs.
+### 6. Payment Analysis
+
+**6.1** Find the customers who have unpaid fees.  
+**6.2** Find the distribution of all payment statuses across the different tariffs.
 
 ---
 
