@@ -19,11 +19,11 @@ Do **not** attempt to push changes directly to this repository or any of its ori
   * Create a [Docker](https://www.docker.com/products/docker-desktop/) container running **Oracle XE**.  
   * Ensure that the database is properly configured and accessible from your local machine.
 
-3. **DBeaver Installation**
+2. **DBeaver Installation**
   * Download and install [DBeaver](https://dbeaver.io/).  
   * Establish a connection to your local Oracle XE instance using the DBeaver client.
 
-5. **Data Import**
+3. **Data Import**
   * Using the provided `.csv` files containing telecom data, design and **create the necessary tables** in Oracle XE. 
   * **Import the data** from the `.csv` files into your newly created tables, ensuring the schema accurately reflects the provided dataset.
 
@@ -33,19 +33,36 @@ Do **not** attempt to push changes directly to this repository or any of its ori
 
 You must write SQL queries to address the scenarios listed below. For each query, include comments explaining your approach in **at least three sentences**. Submissions with missing answers or explanations shorter than the required length will **not be evaluated** and will receive **0 points**.
 
-### 1. List subscribers who signed up in the last 6 months.
-
-### 2. Count the number of subscribers who have a fee greater than 200 TL.
-
-### 3. List the subscribers who have an above-average internet usage.
-
-### 4. Identify subscribers with late payments.
-
-### 5. List the top 5 subscribers with the highest call minutes.
+### 1. List the customers who are subscribed to the 'Kobiye Destek' tariff.
+### 1.1 Find the newest customer who subscribed to this tariff.
 
 ---
 
-## 🛠️ Notes
+### 2. Find the distribution of tariffs among the customers.
+
+---
+
+### 3. Identify the earliest customers to sign up. *(Hint: The earliest customers might not necessarily have the lowest IDs.)*
+### 3.1 Find the distribution of these earliest customers across different cities, including the total count for each city.
+
+---
+
+### 4. Every customer has a monthly fee, and the dataset contains this month's usage values. However, an insertion error occurred, and some customers' monthly records are missing. Identify the IDs of these missing customers.
+### 4.1 Find the distribution of these missing customers across different cities.
+
+---
+
+### 5. Find the customers who have used at least 75% of their data limit.
+### 5.1 Identify the customers who have completely exhausted all of their package limits (data, minutes, and SMS).
+
+---
+
+### 6. Find the customers who have unpaid fees.
+### 6.1 Find the distribution of all payment statuses across the different tariffs.
+
+---
+
+## Notes
 
 * You have the creative freedom to design the database schema as you see fit, based on the provided dataset.
 * Pay close attention to applying the appropriate data types and constraints when creating your tables.
