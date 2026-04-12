@@ -38,6 +38,9 @@ You will receive `.csv` files containing telecom-related data to use for answeri
 * Save your SQL query solutions in a separate file (e.g., `SOLUTIONS.sql`).
 * Include your database table creation scripts, along with their respective indexes and constraints, in another separate file (e.g., `TABLE_CREATION_SCRIPTS.sql`).
 
+You must **create your own repository using this template** and upload your work there. 
+Do **not** attempt to push changes directly to this repository or any of its original branches.
+
 ---
 
 ## Operational Requirements
