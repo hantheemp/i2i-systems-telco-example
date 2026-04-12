@@ -20,7 +20,7 @@ Please follow the visual steps below to create and set up the project repository
 
 <br><br>
 
-3. Name your repository as **"omdb-project"** and click the **"Create repository"** button.
+3. Name your repository as **"telco-project"** and click the **"Create repository"** button.
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7fe03880-8d77-4fcd-a076-827aab2328e5" />
 
