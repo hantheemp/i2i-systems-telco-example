@@ -57,6 +57,10 @@ Do **not** attempt to push changes directly to this repository or any of its ori
   * Using the provided `.csv` files containing telecom data, design and **create the necessary tables** in Oracle XE. 
   * **Import the data** from the `.csv` files into your newly created tables, ensuring the schema accurately reflects the provided dataset.
 
+4. **Bonus Tasks (Optional for Extra Points)**
+  * **Docker Compose & Reproducibility:** Provide a `docker-compose.yml` file to spin up the Oracle XE database environment easily. Include clear documentation in your repository (with screenshots) explaining the step-by-step process to reproduce your setup.
+  * **Automated Database Seeding:** Configure your Docker Compose setup to automatically run your database scripts (table creation) upon container initialization.
+
 ---
 
 ## Functional Requirements
