@@ -1,5 +1,35 @@
 # Telco Project
 
+## How to Set Up Your Repository
+
+**WARNING: THIS IS A TEMPLATE PROJECT. DO NOT FORK THIS REPOSITORY.**
+
+**Forks WILL NOT BE EVALUATED and will receive 0 points.**
+
+Please follow the visual steps below to create and set up the project repository on your own GitHub profile.
+
+1. Click the **"Use this template"** button at the top right of this page.
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/547179ce-f2ac-4394-ad63-11e35a7daa74" />
+
+<br><br>
+
+2. Select **"Create a new repository"** to generate your own public repository for this task.
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a1893fef-731f-4c9a-bf68-79db6a39bea9" />
+
+<br><br>
+
+3. Name your repository as **"omdb-project"** and click the **"Create repository"** button.
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7fe03880-8d77-4fcd-a076-827aab2328e5" />
+
+<br><br>
+
+Upload all of your solutions to `github.com/yourusername/telco-project`.
+
+---
+
 ## Overview
 
 In this project, you will take on the role of a developer at **i2i Systems**, where you are tasked with fulfilling various team requests through database operations. 
