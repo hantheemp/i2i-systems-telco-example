@@ -2,9 +2,7 @@
 
 ## How to Set Up Your Repository
 
-**WARNING: THIS IS A TEMPLATE PROJECT. DO NOT FORK THIS REPOSITORY.**
-
-**Forks WILL NOT BE EVALUATED and will receive 0 points.**
+**WARNING**: This is a template project. Do not fork this repository.
 
 Please follow the visual steps below to create and set up the project repository on your own GitHub profile.
 
